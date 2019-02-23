@@ -1,0 +1,66 @@
+body{
+  /*background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/PDaTSuJ/plexus-abstract-network-titles-cinematic-background-37_szokzaw0_thumbnail-full01.png");*/
+   background-image: url("D:/HTML/My_Website/Artox/images/bg.jpg");
+   z-index: -1;
+}
+
+.logo{
+  margin-top: 0;
+  float: left;
+  width: 150px;
+}
+
+.navbar{
+	height: 62px;
+	color: white;
+	margin-top: 0;
+	margin-left:1px;
+
+}
+
+.nav-link{
+	float: right;
+	font-size: 22px;
+	color: black;
+}
+
+.textweb{
+  color: white;
+  list-style: none;
+  font-size:75px;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  margin-left: 10%;
+  margin-bottom: 10px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.banner{
+	min-width: 25%;
+	min-height: 20%;
+    resize: both;
+    background-size: contain;
+
+	
+}
+
+.art{
+  border-radius: 50%;
+  border: 10px solid;
+  border-color: white;
+  border-width: 8px;
+  max-width: 155px;
+  margin-left: 5%;
+  margin-top: 1%;
+
+}
+
+.web{
+  border-radius: 50%;
+  max-width: 155px;
+  margin-left: 40%;
+  margin-top: 1%;
+}
